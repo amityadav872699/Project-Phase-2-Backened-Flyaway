@@ -90,11 +90,8 @@ Following requirements should be met:
 
 An introduction Home Page containg two section Admin and Booking from passenger side.
 
-<img alt = "Home Screen" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot%20(1618).png">
+<img alt = "Home Screen" src = "https://github.com/amityadav872699/Project-Phase-2-Backened-Flyaway/blob/main/homescreen.jpg">
 
-This is New Image with Styling.
-
-<img alt = "Home Screen" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot%20(1619).png">
 
 1. Two options in the home page.
 
