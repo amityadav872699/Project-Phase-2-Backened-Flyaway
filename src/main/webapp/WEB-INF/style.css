@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+body
+{
+	font-family: system-ui;
+	background:url("https://wallpaperaccess.com/full/1968246.jpg");
+	background-size:cover;
+	background-attachment: fixed;
+	font: italic 1.2em "Fira Sans", serif;
+}
+
+h1 {
+  color: navy;
+  font-size:60px;
+	text-align:center;
+}
+
+h2{
+	color: Brown;
+	font-size:60px;
+	text-align:center;
+}
+input[type=submit], input[type=Login] {
+	margin: auto;
+    padding: 15px 45px;
+    transition: .5s;
+    background-size: 100% auto;
+    border:none;
+    border-radius:30px;
+    display: block;
+}
+
+th{
+	
+	border-radius:50px;
+	border:none;
+	text-align:center;
+	margin:auto;
+	padding: 5px 5px;
+	border-color: black;
+}
+a{
+	color: MediumVioletRed;
+	font-size:25px;
+	text-align:center;
+	font-family: "Lucida Console";
+}
+
+a:hover {
+  background-color: SeaShell;
+}
+
+input:hover[type=submit], input[type=Login] {
+  background-color: RoyalBlue;
+}
